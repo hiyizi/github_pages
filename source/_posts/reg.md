@@ -1,9 +1,9 @@
 ---
 title: 正则替换回调在JAVA中的实现
 date: 2017-12-14 20:13:49
+categories: tech
 tags: 
     - 正则
-    - tech
 ---
 
 ## 问题

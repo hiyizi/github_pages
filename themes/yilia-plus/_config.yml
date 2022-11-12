@@ -1,8 +1,9 @@
 ﻿# Header-菜单
 menu:
   主页: /
-  技术笔记: /tags/tech/index.html
+  技术笔记: /categories/tech/index.html
   随笔: /tags/其他/index.html
+  博客: https://www.jianshu.com/u/27e8bb1d1446
 
 # subNav-子导航
 subNav:
