@@ -1,8 +1,8 @@
 ﻿# Header-菜单
 menu:
   主页: /
-  技术笔记: https://zhousiwei.gitee.io/ibooks/
-  随笔: /tags/随笔/
+  技术笔记: /tags/tech/index.html
+  随笔: /tags/其他/index.html
 
 # subNav-子导航
 subNav:
