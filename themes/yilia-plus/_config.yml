@@ -160,11 +160,6 @@ github:
   # (关闭请设置为false)
   url: false
 
-# 页脚 Litten(此配置项已弃用)
-# 帮助我们让更多人可以更方便使用Hexo，请尽量不要修改此主题配置
-pageFooter:
-  litten: GitHub:<a href="https://github.com/JoeyBling/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
-
 # 开启百度站长平台自动推送(https://ziyuan.baidu.com/linksubmit/index)
 baidu_push: false
 
@@ -175,7 +170,7 @@ copyright_type: 2
 copyright_text:
 
 # 网站成立年份(默认为 2018，若填入年份小于当前年份，则显示为 2018-2019 类似的格式)
-since: 2018
+since: 2017
 
 # Progress Bar | 页面加载进度条
 # Demo: http://github.hubspot.com/pace/docs/welcome/
