@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-email: smillence@hotmail.com
-author: Smillence
+title: HIYIZI
+subtitle: 来自HIYIZI的分享
+description: 还没有想好写什么
+keywords: 宜孜
+email: hiyizi@hotmail.com
+author: HIYIZI
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://sunjingwu.github.io
+url: https://hiyizi.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -43,7 +44,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -52,7 +53,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -79,7 +80,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/sunjingwu/sunjingwu.github.io.git
+  repo: https://github.com/hiyizi/hiyizi.github.io.git
   branch: master
   message: publish
 
