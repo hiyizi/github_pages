@@ -81,7 +81,7 @@ theme: yilia
 deploy:
   type: git
   repo: https://github.com/hiyizi/hiyizi.github.io.git
-  branch: master
+  branch: main
   message: publish
 
 
